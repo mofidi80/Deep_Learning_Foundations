@@ -30,7 +30,7 @@ In this project, we use several Multi Layer Perceptrons with different settings(
 
 
 ## 3. Use CNN on Mnist dataset
-In this project, we Implement a simple 2 layer Convolutional Neural Network yo classify MNIST dataset
+In this project, we Implement a 2 layer Convolutional Neural Network, which uses pointwise convolution instead of MLP for classification to increase efficiency, to classify MNIST dataset.
 
 ### Goals
 * Successfully implement and test CNN on Mnist
