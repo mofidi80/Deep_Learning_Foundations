@@ -10,8 +10,8 @@ In this project, we attempt to write Support Vector Machine, and Support Vector 
 3. Make a random classification dataset to test these models
 
 ### Outcome
-* SVM has an accuracy score of 87%
-* SVR has mse of 0.4160
+* SVM has an accuracy score of 88%
+* SVR has mse of 0.2233
 
 
 ## 2. Use MLPs on Mnist dataset
